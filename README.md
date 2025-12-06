@@ -1,6 +1,6 @@
 <p align="center">
 
-  <!-- Core ML Languages / Frameworks -->
+  <!-- Row 1: Core Languages & ML Frameworks -->
   <img src="https://img.shields.io/badge/Python-ML%20%7C%20Systems-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/C%2B%2B-Embedded%20%7C%20HPC-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Rust-Systems%20Programming-orange?style=flat-square" />
@@ -10,26 +10,27 @@
 
   <br/>
 
-  <!-- LLM / CV / Signal ML -->
+  <!-- Row 2: LLMs / CV / Signal Processing -->
   <img src="https://img.shields.io/badge/LLMs-Qwen%20%7C%20LLaMA%20%7C%20Mistral-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/Activation--Level%20Unlearning-LoRA-critical?style=flat-square" />
   <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv5%20%7C%20YOLOv8%20%7C%20YOLOv10-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/RF%20Signal%20ML-CNN--BiLSTM%20%7C%20Transformers-lightgrey?style=flat-square" />
   <img src="https://img.shields.io/badge/OCR-EasyOCR%20%7C%20Tesseract-critical?style=flat-square" />
   <img src="https://img.shields.io/badge/ONNX-Export%20%7C%20Runtime%20%7C%20Quantization-9cf?style=flat-square" />
-
-  <br/>
-
-  <!-- ML Infrastructure -->
-  <img src="https://img.shields.io/badge/Feature%20Engineering-Online%20%7C%20Offline-important?style=flat-square" />
-  <img src="https://img.shields.io/badge/Feature%20Stores-Training%20%7C%20Inference-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kafka-Event%20Streaming-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Airflow-Orchestration%20%7C%20Pipelines-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Model%20Serving-CUDA%20%7C%20NPU%20%7C%20Edge-green?style=flat-square" />
 
   <br/>
 
-  <!-- Distributed Systems / Cloud / Deployment -->
+  <!-- Row 3: ML Infra / Feature Engineering -->
+  <img src="https://img.shields.io/badge/Feature%20Engineering-Online%20%7C%20Offline-important?style=flat-square" />
+  <img src="https://img.shields.io/badge/Feature%20Stores-Training%20%7C%20Inference-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector%20Search-FAISS%20%7C%20Milvus-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kafka-Event%20Streaming-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Airflow-Orchestration%20%7C%20Pipelines-orange?style=flat-square" />
+
+  <br/>
+
+  <!-- Row 4: Distributed Systems / Deployment -->
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-Containers%20%7C%20Microservices-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Apptainer%2FSingularity-HPC%20Clusters-brightgreen?style=flat-square" />
@@ -38,13 +39,14 @@
 
   <br/>
 
-  <!-- Embedded / Edge AI -->
+  <!-- Row 5: Embedded / Edge AI -->
   <img src="https://img.shields.io/badge/NVIDIA%20Jetson-Nano%20%7C%20Xavier%20%7C%20Orin-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Rockchip-RV1106G%20NPU%20%7C%20ONNX%20Runtime-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Buildroot%20%7C%20Yocto-Embedded%20Linux-lightgrey?style=flat-square" />
   <img src="https://img.shields.io/badge/CUDA%20%2F%20VPI-Accelerated%20CV-brightgreen?style=flat-square" />
 
 </p>
+
 
 
 # Jacob Ramey
