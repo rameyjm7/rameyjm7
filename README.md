@@ -56,6 +56,9 @@ Building end-to-end systems from data engineering to model deployment.
 
 ---
 
+## Resume Link [Resume - Jacob Ramey - Dec 8 2025.pdf](https://github.com/user-attachments/files/24041937/Resume.-.Jacob.Ramey.-.Dec.8.2025.pdf)
+
+
 ## Overview
 
 I work on applied machine learning across large language models, deep computer vision systems, and wireless signal classification.  
