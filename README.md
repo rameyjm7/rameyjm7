@@ -23,6 +23,11 @@ I build the software layer around models: data pipelines, preprocessing, trainin
 
 ## Featured Work
 
+### AI Inference Systems
+
+**[gpu-inference-pipeline](https://github.com/rameyjm7/gpu-inference-pipeline)**  
+Production-style AI inference service with FastAPI, ONNX-ready runtime loading, deterministic fallback inference, Prometheus metrics, Docker deployment, benchmark tooling, tests, and CI.
+
 ### LLM Adaptation and Evaluation
 
 **[masked-emotion-lora-benchmark](https://github.com/rameyjm7/masked-emotion-lora-benchmark)**  
