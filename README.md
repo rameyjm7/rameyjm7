@@ -28,7 +28,7 @@ I build the software layer around models: data pipelines, preprocessing, trainin
 **[masked-emotion-lora-benchmark](https://github.com/rameyjm7/masked-emotion-lora-benchmark)**  
 Reproducible LoRA adaptation benchmark for masked-emotion reasoning across encoder and generative model families. Includes continuation training, centralized metrics, and comparison tables showing RoBERTa-large improving from a paper baseline near 0.377 AccV to 0.8304 AccV.
 
-**[SFT-Training-LLM](https://github.com/rameyjm7/SFT-Training-LLM)**  
+**[qwen-sft-reasoning-benchmark](https://github.com/rameyjm7/qwen-sft-reasoning-benchmark)**  
 End-to-end supervised fine-tuning workflow for Qwen2.5-3B-Instruct using LLaMA-Factory, Hugging Face tooling, benchmark evaluation, and reasoning-task analysis.
 
 **[llm-preference-unlearning](https://github.com/rameyjm7/llm-preference-unlearning)**  
@@ -36,8 +36,8 @@ Research engineering prototype for activation-guided masked LoRA, concept suppre
 
 ### RF, Sensor, and Applied ML Systems
 
-**[ML-wireless-signal-classification](https://github.com/rameyjm7/ML-wireless-signal-classification)**  
-GPU-ready RF/IQ machine-learning pipeline for modulation and radar waveform classification, including preprocessing, recurrent/CNN hybrid models, Docker/Apptainer environments, and benchmark artifacts across RML2016, RML2018, and DeepRadar2022.
+**[rf-signal-intelligence](https://github.com/rameyjm7/rf-signal-intelligence)**  
+GPU-ready RF/IQ machine-learning workspace for modulation recognition, radar waveform analysis, signal preprocessing, recurrent/CNN hybrid models, Docker/Apptainer environments, and benchmark artifacts across RML2016, RML2018, and DeepRadar2022.
 
 **[SDR-Shark](https://github.com/rameyjm7/SDR-Shark)**  
 Applied signal-intelligence platform with React UI, Python backend, SDR streaming, signal statistics, annotation tools, and a path toward ML-assisted RF classification.
