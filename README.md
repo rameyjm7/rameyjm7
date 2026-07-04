@@ -39,10 +39,10 @@ Research engineering prototype for activation-guided masked LoRA, concept suppre
 **[rf-signal-intelligence](https://github.com/rameyjm7/rf-signal-intelligence)**  
 GPU-ready RF/IQ machine-learning workspace for modulation recognition, radar waveform analysis, signal preprocessing, recurrent/CNN hybrid models, Docker/Apptainer environments, and benchmark artifacts across RML2016, RML2018, and DeepRadar2022.
 
-**[SDR-Shark](https://github.com/rameyjm7/SDR-Shark)**  
+**[sdr-shark](https://github.com/rameyjm7/sdr-shark)**  
 Applied signal-intelligence platform with React UI, Python backend, SDR streaming, signal statistics, annotation tools, and a path toward ML-assisted RF classification.
 
-**[RF_Sentinel](https://github.com/rameyjm7/RF_Sentinel)**  
+**[rf-sentinel](https://github.com/rameyjm7/rf-sentinel)**  
 Multi-protocol RF intelligence platform for passive discovery, normalized event processing, SDR gateway integration, Bluetooth/BLE/Zigbee/Sub-GHz plugins, dashboards, alerts, and reports.
 
 ### Data and ML Infrastructure
@@ -59,7 +59,5 @@ Python, C++, PyTorch, TensorFlow, Hugging Face Transformers, LLaMA-Factory, ONNX
 
 ## Contact
 
-- Email: rameyjm7@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rameyjm
-- Kaggle: https://www.kaggle.com/jacobramey
-- Hugging Face: https://huggingface.co/rameyjm7
+LinkedIn: https://www.linkedin.com/in/rameyjm  
+Hugging Face: https://huggingface.co/rameyjm7
