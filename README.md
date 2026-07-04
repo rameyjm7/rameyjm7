@@ -1,167 +1,65 @@
 <p align="center">
-
-  <!-- Row 1: Core Languages & ML Frameworks -->
-  <img src="https://img.shields.io/badge/Python-ML%20%7C%20Systems-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Embedded%20%7C%20HPC-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rust-Systems%20Programming-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/TensorFlow-Training%20Pipelines-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square" />
-
-  <br/>
-
-  <!-- Row 2: LLMs / CV / Signal Processing -->
-  <img src="https://img.shields.io/badge/LLMs-Qwen%20%7C%20LLaMA%20%7C%20Mistral-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Activation--Level%20Unlearning-LoRA-critical?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-YOLOv5%20%7C%20YOLOv8%20%7C%20YOLOv10-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/RF%20Signal%20ML-CNN--BiLSTM%20%7C%20Transformers-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/OCR-EasyOCR%20%7C%20Tesseract-critical?style=flat-square" />
-  <img src="https://img.shields.io/badge/ONNX-Export%20%7C%20Runtime%20%7C%20Quantization-9cf?style=flat-square" />
-  <img src="https://img.shields.io/badge/Model%20Serving-CUDA%20%7C%20NPU%20%7C%20Edge-green?style=flat-square" />
-
-  <br/>
-
-  <!-- Row 3: ML Infra / Feature Engineering -->
-  <img src="https://img.shields.io/badge/Feature%20Engineering-Online%20%7C%20Offline-important?style=flat-square" />
-  <img src="https://img.shields.io/badge/Feature%20Stores-Training%20%7C%20Inference-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector%20Search-FAISS%20%7C%20Milvus-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kafka-Event%20Streaming-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Airflow-Orchestration%20%7C%20Pipelines-orange?style=flat-square" />
-
-  <br/>
-
-  <!-- Row 4: Distributed Systems / Deployment -->
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-Containers%20%7C%20Microservices-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Apptainer%2FSingularity-HPC%20Clusters-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Slurm-Distributed%20Training-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20IoT%20Core-ff9900?style=flat-square" />
-
-  <br/>
-
-  <!-- Row 5: Embedded / Edge AI -->
-  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-Nano%20%7C%20Xavier%20%7C%20Orin-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Rockchip-RV1106G%20NPU%20%7C%20ONNX%20Runtime-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Buildroot%20%7C%20Yocto-Embedded%20Linux-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/CUDA%20%2F%20VPI-Accelerated%20CV-brightgreen?style=flat-square" />
-
+  <img src="https://img.shields.io/badge/AI%20Systems-LLM%20%7C%20Inference%20%7C%20Evaluation-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/GPU%20ML-PyTorch%20%7C%20TensorFlow%20%7C%20CUDA-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20Adaptation-LoRA%20%7C%20SFT%20%7C%20Unlearning-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/RF%20Signal%20ML-IQ%20%7C%20SDR%20%7C%20Spectrograms-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Production%20ML-Docker%20%7C%20CI%2FCD%20%7C%20Telemetry-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linux%20Systems-Python%20%7C%20C%2B%2B%20%7C%20Edge-critical?style=flat-square" />
 </p>
-
-
 
 # Jacob Ramey
 
-Machine learning engineer focusing on LLM fine-tuning, computer vision, and RF signal classification.  
-Building end-to-end systems from data engineering to model deployment.
+Senior AI systems software engineer focused on production ML systems, LLM adaptation and evaluation, RF/sensor intelligence, and GPU-ready inference pipelines.
 
----
+I build the software layer around models: data pipelines, preprocessing, training/evaluation harnesses, inference services, telemetry, containerized deployment, and Linux systems that make ML workloads repeatable outside a notebook.
 
-## Resume Link [Resume - Jacob Ramey - Dec 8 2025.pdf](https://github.com/user-attachments/files/24041937/Resume.-.Jacob.Ramey.-.Dec.8.2025.pdf)
+## Current Focus
 
+- LLM adaptation and evaluation: LoRA, QLoRA, SFT, activation-level unlearning, reasoning benchmarks
+- AI inference systems: preprocessing, model execution, postprocessing, observability, reproducible deployment
+- RF and sensor ML: IQ data, spectrograms, modulation recognition, SDR capture, signal-intelligence workflows
+- GPU-ready experimentation: PyTorch, TensorFlow, CUDA-enabled environments, Docker, Apptainer, Slurm
+- Production software: Python/C++ services, FastAPI, WebSocket streaming, CI/CD, Linux deployment
 
-## Overview
+## Featured Work
 
-I work on applied machine learning across large language models, deep computer vision systems, and wireless signal classification.  
-My work spans the full development lifecycle, including dataset ingestion, GPU-accelerated training, model optimization, and deployment to both cloud and edge devices.
+### LLM Adaptation and Evaluation
 
-I maintain a strong focus on reproducibility, containerization, and scalable experimentation using HPC clusters, CUDA-enabled systems, and distributed training tools.
+**[masked-emotion-lora-benchmark](https://github.com/rameyjm7/masked-emotion-lora-benchmark)**  
+Reproducible LoRA adaptation benchmark for masked-emotion reasoning across encoder and generative model families. Includes continuation training, centralized metrics, and comparison tables showing RoBERTa-large improving from a paper baseline near 0.377 AccV to 0.8304 AccV.
 
----
+**[SFT-Training-LLM](https://github.com/rameyjm7/SFT-Training-LLM)**  
+End-to-end supervised fine-tuning workflow for Qwen2.5-3B-Instruct using LLaMA-Factory, Hugging Face tooling, benchmark evaluation, and reasoning-task analysis.
 
-## Technical Focus Areas
+**[llm-preference-unlearning](https://github.com/rameyjm7/llm-preference-unlearning)**  
+Research engineering prototype for activation-guided masked LoRA, concept suppression, prompt perturbation analysis, Fisher/saliency profiling, and before/after behavior evaluation.
 
-### Large Language Models
-- Supervised Fine-Tuning (SFT) of Qwen, LLaMA, and other transformer models  
-- Activation-level unlearning and alignment research  
-- LoRA, QLoRA, 4-bit/8-bit quantization  
-- RAG systems, evaluation pipelines, and benchmarking  
-- Model deployment using FastAPI, Gradio, and containerized inference
+### RF, Sensor, and Applied ML Systems
 
-### Computer Vision
-- YOLOv8 and YOLOv10 object detection  
-- Parking detection, LPR (license plate recognition), multi-object tracking  
-- Real-time inference pipelines for edge and cloud environments  
-- Dataset creation, annotation, and evaluation tooling
+**[ML-wireless-signal-classification](https://github.com/rameyjm7/ML-wireless-signal-classification)**  
+GPU-ready RF/IQ machine-learning pipeline for modulation and radar waveform classification, including preprocessing, recurrent/CNN hybrid models, Docker/Apptainer environments, and benchmark artifacts across RML2016, RML2018, and DeepRadar2022.
 
-### Wireless Signal ML
-- RF/IQ dataset modeling (modulation recognition, radar signal classification)  
-- LSTM, CNN-BiLSTM, and transformer-based architectures  
-- Spectrogram generation and signal preprocessing  
-- Applied DSP and feature extraction for ML systems
+**[SDR-Shark](https://github.com/rameyjm7/SDR-Shark)**  
+Applied signal-intelligence platform with React UI, Python backend, SDR streaming, signal statistics, annotation tools, and a path toward ML-assisted RF classification.
 
-### ML Systems and Infrastructure
-- Distributed GPU training on HPC clusters (Slurm, A100/H100 nodes)  
-- Apptainer/Singularity, Docker, and reproducible environments  
-- Data engineering with Kafka, S3, Airflow, and Python pipelines  
-- Edge deployment on NVIDIA Jetson platforms
+**[RF_Sentinel](https://github.com/rameyjm7/RF_Sentinel)**  
+Multi-protocol RF intelligence platform for passive discovery, normalized event processing, SDR gateway integration, Bluetooth/BLE/Zigbee/Sub-GHz plugins, dashboards, alerts, and reports.
 
----
+### Data and ML Infrastructure
 
-## Selected Projects
+**[climate-trend-predictor](https://github.com/rameyjm7/climate-trend-predictor)**  
+Kafka/S3/Airflow/TensorFlow data pipeline for time-series ML workflow experimentation, batch and stream ingestion, visualization, and model training.
 
-### LLM Preference Unlearning
-Research prototype demonstrating activation-level feature removal to improve downstream alignment and robustness in large language models.  
-Includes training scripts, evaluation tools, and an extensible experimentation framework.
+**[multi-agent-market-intelligence-system](https://github.com/rameyjm7/multi-agent-market-intelligence-system)**  
+Multi-agent intelligence workflow for structured research, document processing, and decision support.
 
-Repository:  
-https://github.com/rameyjm7/llm-preference-unlearning
+## Technical Stack
 
----
-
-### SFT Training for Qwen and LLaMA
-End-to-end training pipeline for supervised fine-tuning of large language models.  
-Includes quantization, LoRA integration, evaluation metrics, and reproducible experiment setup.
-
-Repository:  
-https://github.com/rameyjm7/SFT-Training-LLM
-
----
-
-### Parking Detector and LPR
-A complete computer vision system for detecting available parking spaces and performing license plate recognition.  
-Implements YOLO detection, classical OCR, data preprocessing, and evaluation.
-
-Repository:  
-https://github.com/rameyjm7/parking-detector-lpr
-
----
-
-### Wireless Signal Classification
-Machine learning models for modulation recognition and RF/IQ signal classification.  
-Includes LSTM/BiLSTM baselines, spectrogram generation, and preprocessing pipelines.
-
-Repository:  
-https://github.com/rameyjm7/ML-wireless-signal-classification
-
----
-
-### Climate Trend Predictor
-Full data-engineering and ML workflow using Kafka, AWS S3, TensorFlow, and visualization tools.  
-Demonstrates end-to-end pipeline construction and cloud deployment.
-
-Repository:  
-https://github.com/rameyjm7/climate-trend-predictor
-
----
-
-## Tools and Technologies
-
-- Python, PyTorch, TensorFlow, NumPy, SciPy  
-- Transformers, Hugging Face ecosystem  
-- CUDA, CUDNN, distributed GPU workflows  
-- Slurm, Apptainer/Singularity, Docker  
-- Airflow, Kafka, AWS (EC2, S3)  
-- OpenCV, YOLO, ONNX  
-- Bash, Linux systems engineering  
-- NVIDIA Jetson and embedded deployment
-
----
+Python, C++, PyTorch, TensorFlow, Hugging Face Transformers, LLaMA-Factory, ONNX, CUDA, OpenCV, FastAPI, Flask, React, Docker, Apptainer/Singularity, Slurm, Kafka, Airflow, AWS S3/EC2, Linux, SDR/SoapySDR, Jetson-class edge deployment.
 
 ## Contact
 
-Email: rameyjm7@gmail.com  
-LinkedIn: https://www.linkedin.com/in/rameyjm  
-Kaggle: https://www.kaggle.com/jacobramey  
-Hugging Face: https://huggingface.co/rameyjm7
-
-
+- Email: rameyjm7@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rameyjm
+- Kaggle: https://www.kaggle.com/jacobramey
+- Hugging Face: https://huggingface.co/rameyjm7
