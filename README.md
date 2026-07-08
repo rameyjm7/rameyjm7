@@ -13,6 +13,13 @@ Senior AI systems software engineer focused on production ML systems, LLM adapta
 
 I build the software layer around models: data pipelines, preprocessing, training/evaluation harnesses, inference services, telemetry, containerized deployment, and Linux systems that make ML workloads repeatable outside a notebook.
 
+## Selected Proof Points
+
+- Built a production-style AI inference service with FastAPI, ONNX-ready runtime loading, deterministic fallback inference, Prometheus metrics, Docker, benchmarks, tests, and CI.
+- Built LLM adaptation and evaluation workflows covering LoRA, QLoRA, SFT, activation-level unlearning, prompt perturbation analysis, and reasoning benchmarks.
+- Built RF/IQ ML pipelines with live SDR replay/receive, ONNX export, TensorRT deployment on NVIDIA Jetson, and Nsight-profiled edge inference.
+- Built data and ML workflows using Kafka, S3, Airflow, TensorFlow, Docker, and AWS.
+
 ## Current Focus
 
 - LLM adaptation and evaluation: LoRA, QLoRA, SFT, activation-level unlearning, reasoning benchmarks
