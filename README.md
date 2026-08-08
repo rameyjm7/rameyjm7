@@ -4,8 +4,18 @@ Senior systems engineer focused on embedded AI, RF/sensor intelligence, SDR plat
 
 I build the software layer around real systems: capture pipelines, edge compute, dashboards, model evaluation, deployment tooling, telemetry, cybersecurity-aware platform work, and Linux/Windows IoT device software.
 
+## Portfolio
+
+- [RTG LLC](https://www.rtgllc.io/) - embedded systems, defense-oriented prototypes, connected medical technology, cybersecurity evidence, and technical execution
+- [RTG Spectrum](https://rtgspectrum.com/) - RF sensing, SDR prototypes, spectrum monitoring, signal classification, and counter-UAS sensing support
+- [LinkedIn](https://www.linkedin.com/in/rameyjm) - background, roles, and professional context
+- [Hugging Face](https://huggingface.co/rameyjm7) - public model and ML artifacts
+
 ## Selected Proof Points
 
+- Built RF and sensor-intelligence systems spanning SDR capture, passive discovery, operator dashboards, multi-band wireless survey evidence, and field-oriented prototype workflows.
+- Built connected-device software for Linux and Windows IoT systems, including telemetry, diagnostics, secure-update support, platform hardening, and production-image workflows.
+- Supported medical-device engineering evidence for 510(k)-cleared product environments, cybersecurity review, embedded platforms, and regulated technical documentation.
 - Built a production-style AI inference service with FastAPI, ONNX-ready runtime loading, deterministic fallback inference, Prometheus metrics, Docker, benchmarks, tests, and CI.
 - Built LLM adaptation and evaluation workflows covering LoRA, QLoRA, SFT, activation-level unlearning, prompt perturbation analysis, and reasoning benchmarks.
 - Built RF/IQ ML pipelines with live SDR replay/receive, ONNX export, TensorRT deployment on NVIDIA Jetson, and Nsight-profiled edge inference.
