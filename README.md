@@ -1,17 +1,8 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Systems-LLM%20%7C%20Inference%20%7C%20Evaluation-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/GPU%20ML-PyTorch%20%7C%20TensorFlow%20%7C%20CUDA-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20Adaptation-LoRA%20%7C%20SFT%20%7C%20Unlearning-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/RF%20Signal%20ML-IQ%20%7C%20SDR%20%7C%20Spectrograms-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Production%20ML-Docker%20%7C%20CI%2FCD%20%7C%20Telemetry-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux%20Systems-Python%20%7C%20C%2B%2B%20%7C%20Edge-critical?style=flat-square" />
-</p>
+# Jacob M. Ramey
 
-# Jacob Ramey
+Senior systems engineer focused on embedded AI, RF/sensor intelligence, SDR platforms, GPU-ready inference, and connected-device software.
 
-Senior AI systems software engineer focused on production ML systems, LLM adaptation and evaluation, RF/sensor intelligence, and GPU-ready inference pipelines.
-
-I build the software layer around models: data pipelines, preprocessing, training/evaluation harnesses, inference services, telemetry, containerized deployment, and Linux systems that make ML workloads repeatable outside a notebook.
+I build the software layer around real systems: capture pipelines, edge compute, dashboards, model evaluation, deployment tooling, telemetry, cybersecurity-aware platform work, and Linux/Windows IoT device software.
 
 ## Selected Proof Points
 
@@ -22,52 +13,53 @@ I build the software layer around models: data pipelines, preprocessing, trainin
 
 ## Current Focus
 
-- LLM adaptation and evaluation: LoRA, QLoRA, SFT, activation-level unlearning, reasoning benchmarks
-- AI inference systems: preprocessing, model execution, postprocessing, observability, reproducible deployment
-- RF and sensor ML: IQ data, spectrograms, modulation recognition, SDR capture, signal-intelligence workflows
-- GPU-ready experimentation: PyTorch, TensorFlow, CUDA-enabled environments, Docker, Apptainer, Slurm
-- Production software: Python/C++ services, FastAPI, WebSocket streaming, CI/CD, Linux deployment
+- RF and sensor intelligence: SDR capture, IQ pipelines, spectrum monitoring, passive discovery, and operator-facing RF dashboards
+- Embedded AI: NVIDIA Jetson, ONNX, TensorRT, CUDA-enabled inference, edge deployment, and profiling
+- Connected devices: Linux services, telemetry, diagnostics, secure updates, field reliability, and production images
+- Medical-device platforms: 510(k) cybersecurity evidence support, Linux and Windows IoT devices, secure platform hardening, and regulated engineering documentation
+- LLM and AI evaluation: LoRA/SFT workflows, reasoning benchmarks, inference services, and reproducible ML pipelines
 
-## Featured Work
+## Public Systems And Evidence
 
-### AI Inference Systems
+### RF / SDR Systems
 
-**[gpu-inference-pipeline](https://github.com/rameyjm7/gpu-inference-pipeline)**  
+**[rf-signal-intelligence](https://github.com/rameyjm7/rf-signal-intelligence)**
+Real-time RF drone-classification pipeline covering public RF datasets, live SDR replay/receive, ONNX export, Jetson TensorRT FP16 deployment, and Nsight/trtexec profiling. Includes public result cards and links to system-level evidence.
+
+**[sdr-shark](https://github.com/rameyjm7/sdr-shark)**
+Applied RF/ML platform with React UI, Python backend, SDR streaming, scanner workflows, decoder plugins, signal analysis dialogs, waterfall visualization, and integration points for RF/IQ classifiers.
+
+**[rf-sentinel](https://github.com/rameyjm7/rf-sentinel)**
+Multi-SDR RF intelligence platform for passive discovery and normalized event tracking across Bluetooth, BLE, Zigbee, Wi-Fi, TPMS, FM, cellular, and LF/MF signals.
+
+### Fielded Proof Projects
+
+**[AirScope](https://rtgspectrum.com/airscope/)**
+Multi-band wireless assurance platform for 900 MHz HaLow and 2.4 / 5 / 6 GHz Wi-Fi survey evidence, inventory, channel analysis, and report workflows.
+
+**[PASSIVE-SHIELD](https://www.rtgllc.io/mission-systems/passive-shield/)**
+Prototype evidence chain for passive RF sensing, edge-node status, acoustic corroboration, event sharing, track lifecycle, and operator cues.
+
+### AI / Inference Engineering
+
+**[gpu-inference-pipeline](https://github.com/rameyjm7/gpu-inference-pipeline)**
 Production-style AI inference service with FastAPI, ONNX-ready runtime loading, deterministic fallback inference, Prometheus metrics, Docker deployment, benchmark tooling, tests, and CI.
 
-### LLM Adaptation and Evaluation
+**[qwen-sft-reasoning-benchmark](https://github.com/rameyjm7/qwen-sft-reasoning-benchmark)**
+Supervised fine-tuning and evaluation workflow for Qwen2.5-3B-Instruct using LLaMA-Factory, Hugging Face tooling, benchmark evaluation, and reasoning-task analysis.
 
-**[masked-emotion-lora-benchmark](https://github.com/rameyjm7/masked-emotion-lora-benchmark)**  
-Reproducible LoRA adaptation benchmark for masked-emotion reasoning across encoder and generative model families. Includes continuation training, centralized metrics, and comparison tables showing RoBERTa-large improving from a paper baseline near 0.377 AccV to 0.8304 AccV.
+**[masked-emotion-lora-benchmark](https://github.com/rameyjm7/masked-emotion-lora-benchmark)**
+Reproducible LoRA adaptation benchmark for masked-emotion reasoning across encoder and generative model families.
 
-**[qwen-sft-reasoning-benchmark](https://github.com/rameyjm7/qwen-sft-reasoning-benchmark)**  
-End-to-end supervised fine-tuning workflow for Qwen2.5-3B-Instruct using LLaMA-Factory, Hugging Face tooling, benchmark evaluation, and reasoning-task analysis.
+## Practice Areas
 
-**[llm-preference-unlearning](https://github.com/rameyjm7/llm-preference-unlearning)**  
-Research engineering prototype for activation-guided masked LoRA, concept suppression, prompt perturbation analysis, Fisher/saliency profiling, and before/after behavior evaluation.
-
-### RF, Sensor, and Applied ML Systems
-
-**[rf-signal-intelligence](https://github.com/rameyjm7/rf-signal-intelligence)**  
-GPU-ready RF/IQ machine-learning workspace for modulation recognition, radar waveform analysis, signal preprocessing, recurrent/CNN hybrid models, Docker/Apptainer environments, and benchmark artifacts across RML2016, RML2018, and DeepRadar2022.
-
-**[sdr-shark](https://github.com/rameyjm7/sdr-shark)**  
-Applied signal-intelligence platform with React UI, Python backend, SDR streaming, signal statistics, annotation tools, and a path toward ML-assisted RF classification.
-
-**[rf-sentinel](https://github.com/rameyjm7/rf-sentinel)**  
-Multi-protocol RF intelligence platform for passive discovery, normalized event processing, SDR gateway integration, Bluetooth/BLE/Zigbee/Sub-GHz plugins, dashboards, alerts, and reports.
-
-### Data and ML Infrastructure
-
-**[climate-trend-predictor](https://github.com/rameyjm7/climate-trend-predictor)**  
-Kafka/S3/Airflow/TensorFlow data pipeline for time-series ML workflow experimentation, batch and stream ingestion, visualization, and model training.
-
-**[multi-agent-market-intelligence-system](https://github.com/rameyjm7/multi-agent-market-intelligence-system)**  
-Multi-agent intelligence workflow for structured research, document processing, and decision support.
+- [RTG Spectrum](https://rtgspectrum.com/) - RF sensing, SDR prototyping, spectrum monitoring, signal classification, and counter-UAS sensing support
+- [RTG MedTech](https://www.rtgllc.io/medtech/) - connected medical-device platforms, cybersecurity hardening, 510(k) evidence support, Linux and Windows IoT devices
+- [RTG Mission Systems](https://www.rtgllc.io/mission-systems/) - defense-oriented embedded systems, field sensors, telemetry, command-and-control interfaces, and prototype evidence
 
 ## Technical Stack
 
-Python, C++, PyTorch, TensorFlow, Hugging Face Transformers, LLaMA-Factory, ONNX, CUDA, OpenCV, FastAPI, Flask, React, Docker, Apptainer/Singularity, Slurm, Kafka, Airflow, AWS S3/EC2, Linux, SDR/SoapySDR, Jetson-class edge deployment.
+Python, C, C++, JavaScript, React, Flask, FastAPI, Linux, Windows IoT, Docker, systemd, MQTT, WebSocket streaming, SoapySDR, HackRF, bladeRF, RTL-SDR, NVIDIA Jetson, CUDA, ONNX, TensorRT, TensorFlow, PyTorch, Hugging Face, OpenCV, embedded Linux, QNX, PetaLinux, NXP i.MX, Xilinx Zynq UltraScale+ MPSoCs, FPGA platform integration.
 
 ## Contact
 
