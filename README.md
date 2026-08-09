@@ -36,10 +36,10 @@ I build the software layer around real systems: capture pipelines, edge compute,
 **[rf-signal-intelligence](https://github.com/rameyjm7/rf-signal-intelligence)**
 Real-time RF drone-classification pipeline covering public RF datasets, live SDR replay/receive, ONNX export, Jetson TensorRT FP16 deployment, and Nsight/trtexec profiling. Includes public result cards and links to system-level evidence.
 
-**[sdr-shark](https://github.com/rameyjm7/sdr-shark)**
+**[sdr-shark](https://github.com/rtg-engineering/sdr-shark)**
 Applied RF/ML platform with React UI, Python backend, SDR streaming, scanner workflows, decoder plugins, signal analysis dialogs, waterfall visualization, and integration points for RF/IQ classifiers.
 
-**[rf-sentinel](https://github.com/rameyjm7/rf-sentinel)**
+**[rf-sentinel](https://github.com/rtg-engineering/rf-sentinel)**
 Multi-SDR RF intelligence platform for passive discovery and normalized event tracking across Bluetooth, BLE, Zigbee, Wi-Fi, TPMS, FM, cellular, and LF/MF signals.
 
 ### Fielded Proof Projects
