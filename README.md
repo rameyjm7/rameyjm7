@@ -6,7 +6,7 @@ I build the software layer around real systems: capture pipelines, edge compute,
 
 ## Portfolio
 
-- [RTG LLC](https://www.rtgllc.io/) - embedded systems, defense-oriented prototypes, connected medical technology, cybersecurity evidence, and technical execution
+- RTG LLC - embedded systems, defense-oriented prototypes, connected medical technology, cybersecurity evidence, and technical execution
 - [RTG Spectrum](https://rtgspectrum.com/) - RF sensing, SDR prototypes, spectrum monitoring, signal classification, and counter-UAS sensing support
 - [LinkedIn](https://www.linkedin.com/in/rameyjm) - background, roles, and professional context
 - [Hugging Face](https://huggingface.co/rameyjm7) - public model and ML artifacts
@@ -47,7 +47,7 @@ Multi-SDR RF intelligence platform for passive discovery and normalized event tr
 **[AirScope](https://rtgspectrum.com/airscope/)**
 Multi-band wireless assurance platform for 900 MHz HaLow and 2.4 / 5 / 6 GHz Wi-Fi survey evidence, inventory, channel analysis, and report workflows.
 
-**[PASSIVE-SHIELD](https://www.rtgllc.io/mission-systems/passive-shield/)**
+**PASSIVE-SHIELD**
 Prototype evidence chain for passive RF sensing, edge-node status, acoustic corroboration, event sharing, track lifecycle, and operator cues.
 
 ### AI / Inference Engineering
@@ -64,8 +64,8 @@ Reproducible LoRA adaptation benchmark for masked-emotion reasoning across encod
 ## Practice Areas
 
 - [RTG Spectrum](https://rtgspectrum.com/) - RF sensing, SDR prototyping, spectrum monitoring, signal classification, and counter-UAS sensing support
-- [RTG MedTech](https://www.rtgllc.io/medtech/) - connected medical-device platforms, cybersecurity hardening, 510(k) evidence support, Linux and Windows IoT devices
-- [RTG Mission Systems](https://www.rtgllc.io/mission-systems/) - defense-oriented embedded systems, field sensors, telemetry, command-and-control interfaces, and prototype evidence
+- RTG MedTech - connected medical-device platforms, cybersecurity hardening, 510(k) evidence support, Linux and Windows IoT devices
+- RTG Mission Systems - defense-oriented embedded systems, field sensors, telemetry, command-and-control interfaces, and prototype evidence
 
 ## Technical Stack
 
